@@ -13,4 +13,9 @@
 
 Capsule3 (which I've renamed to 10x2 thanks to the great suggestion by daveurr on Discord) is the third addition to my Capsule series, the first two not being worthy of being posted publicly haha.
 
-The idea for this keyboard and subsequent keymap was to design a layout that avoids any lateral finger movement as you would on conventional full-sized keyboards.
+The idea for this keyboard (and subsequent keymap) was to design a layout that avoids any lateral finger movement as you would on conventional full-sized keyboards.  Moving your fingers only up and down on the columns provides a more enjoyable experience and can reduce or eliminate RSI (repetitve strain injury) in your fingers.  
+
+But how only 18 total letter keys?  By building a custom firmware layout and using combos for less used letters, or where they "feel best".  I performed some studies on letter frequency in the English language and most common bigrams and trigrams to determind the layout.  
+
+![mkbr_dont_panic_stagger](https://github.com/miketronic/10x2/assets/2554604/a35f6997-f245-49e1-9291-665b2549fe4c)
+
