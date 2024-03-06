@@ -11,4 +11,6 @@
 
 ## Introduction
 
-Capsule3 (which I've renamed to 10x2 thanks to the great suggestion by daveurr on Discord ) is the third addition to my Capsule series, the first two not being unworthy of being posted publicly.   
+Capsule3 (which I've renamed to 10x2 thanks to the great suggestion by daveurr on Discord) is the third addition to my Capsule series, the first two not being worthy of being posted publicly haha.
+
+The idea for this keyboard and subsequent keymap was to design a layout that avoids any lateral finger movement as you would on conventional full-sized keyboards.
