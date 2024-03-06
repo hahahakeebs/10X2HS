@@ -27,3 +27,10 @@ But how only 18 total letter keys?  By building a custom firmware layout and usi
 ![keyboard-layout](https://github.com/miketronic/10x2/assets/2554604/5a3343d1-e2cf-4fe1-b2eb-c37004f3c92d)
 
 
+
+
+
+
+## Keycaps
+
+As noted in the *Features*, I chose a narrower keyswitch spacing and thus they require narrower keycaps.  CFX keycaps are commercially available from Chosfox, or you can print your own, for which I've included files.  They easily print upside down on an FDM printer, and I use a textured baseplate.
