@@ -8,6 +8,13 @@
 
 [More pictures here](https://imgur.com/a/LNFxImS)
 
+## Features
+
+- 20 keys
+- Low profile choc switches with CFX spacing (closer spacing then standard choc, only caps of size 16.50mm x 16.50mm will fit)
+- RGB lighting
+- Waveshare RP2040 Zero controller
+- QMK firmware
 
 ## Introduction
 
