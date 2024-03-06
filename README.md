@@ -19,3 +19,7 @@ But how only 18 total letter keys?  By building a custom firmware layout and usi
 
 ![mkbr_dont_panic_stagger](https://github.com/miketronic/10x2/assets/2554604/a35f6997-f245-49e1-9291-665b2549fe4c)
 
+![keyboard-layout](https://github.com/miketronic/10x2/assets/2554604/5a3343d1-e2cf-4fe1-b2eb-c37004f3c92d)
+
+![mkbr_dont_panic_stagger](https://github.com/miketronic/10x2/assets/2554604/66677f88-469d-4277-9433-b1e13142e5df)
+
