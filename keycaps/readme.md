@@ -1,2 +1,1 @@
-** Print these face down. 
-** They feel nicer with a textured build plate.
+### Print these face down. They feel nicer with a textured build plate.
