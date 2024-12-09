@@ -12,9 +12,10 @@
 
 - 20 keys
 - Low profile choc switches with CFX spacing (closer spacing then standard choc, only caps of size 16.50mm x 16.50mm will fit)
-- RGB lighting
+- RGB lighting (not on v3G)
 - Waveshare RP2040 Zero controller
 - QMK firmware
+- [ZMK firmware - module here ](https://github.com/miketronic/zmk-keyboards-10x2/tree/main)
 
 ## Introduction
 
