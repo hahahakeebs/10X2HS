@@ -475,7 +475,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "capsule3_v3G.kicad_pro",
+    "filename": "10X2HS.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -567,7 +567,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "capsule3_wwa.step",
+      "step": "10X2HS.step",
       "svg": "",
       "vrml": ""
     },

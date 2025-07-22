@@ -1049,6 +1049,10 @@
 		(color 0 0 0 0)
 		(uuid "fd937b2a-c449-4190-8626-35b4de8f3840")
 	)
+	(no_connect
+		(at 64.77 73.66)
+		(uuid "2661c5be-80a9-48c8-9a80-393ec9090da8")
+	)
 	(wire
 		(pts
 			(xy 116.84 57.15) (xy 116.84 62.23)
@@ -1459,26 +1463,6 @@
 			)
 		)
 	)
-	(global_label "SOFT_OFF"
-		(shape input)
-		(at 88.9 100.33 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3fa4787c-87c2-447e-a2c0-b812e48e0070")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.9 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SW17"
 		(shape input)
 		(at 111.76 57.15 180)
@@ -1625,26 +1609,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 99.06 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "604b43b1-32c8-4e5e-8576-dd3693b341b7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -2157,26 +2121,6 @@
 		(uuid "dfa49003-8c1a-4131-a114-33dc7e5b8c0d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 64.77 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOFT_OFF"
-		(shape input)
-		(at 64.77 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e51d64cb-0504-4064-86c0-e8a9dc149184")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3925,74 +3869,6 @@
 			(project "capsule3_v3G"
 				(path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
 					(reference "SW19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 93.98 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb4a48d4-ec30-4794-96c3-0220098ea398")
-		(property "Reference" "SW22"
-			(at 93.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 93.98 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
-			(at 93.98 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 93.98 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d4d3c20b-0705-4e9b-8d0e-f61c546edf87")
-		)
-		(pin "2"
-			(uuid "f16e98bb-c941-44bd-9418-16d20ac0279f")
-		)
-		(instances
-			(project ""
-				(path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-					(reference "SW22")
 					(unit 1)
 				)
 			)
